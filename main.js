@@ -1,0 +1,5 @@
+alert(
+`
+Abdulaziz bekor qildin
+`
+)
